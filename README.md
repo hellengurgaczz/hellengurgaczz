@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Hellen 🖐️
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=hellengurgaczz&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 ## Tecnologias 
 
