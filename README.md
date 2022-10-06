@@ -1,5 +1,4 @@
-## Olá! Eu sou a Hellen 🖐️
-<div class="tenor-gif-embed" data-postid="17896818" data-share-method="host" data-aspect-ratio="1.34454" data-width="100%"><a href="https://tenor.com/view/gato-cat-kitty-paw-cute-gif-17896818">Gato Cat GIF</a>from <a href="https://tenor.com/search/gato-gifs">Gato GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Olá! Eu sou a Hellen 🖐
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=hellengurgaczz&show_icons=true&theme=dracula&count_private=true)
 
